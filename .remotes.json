@@ -1,8 +1,0 @@
-[
-  {
-    "package": "delphidocs",
-    "url": "https://github.com/cmu-delphi/delphidocs",
-    "via": ["epidatr"],
-    "from": "epidatr"
-  }
-]
